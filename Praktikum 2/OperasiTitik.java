@@ -21,7 +21,7 @@ class OperasiTitik{
      return titik;
   }
 
-  public void refleksiY(Titik titik){
+  public Titik refleksiY(Titik titik){
      refleksiSumbuY(titik);
      return titik;
   }
